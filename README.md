@@ -31,6 +31,11 @@ A premium web application showcasing high-end luxury and performance vehicles. T
 - Contact information
 - User authentication system
 
+  ## Design
+
+The UI/UX design for this application was created in Figma. You can view and interact with the design here:
+[Figma Design Link](https://www.figma.com/design/4nb6yDv8iAiJSf4Q0uYntt/Suwahas?node-id=0-1&t=V3kqdRUxNdq6okIF-1)
+
 ## Technologies Used
 
 - HTML5
